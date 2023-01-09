@@ -1,0 +1,2 @@
+# json
+TokenURIs for KiwiNFT
